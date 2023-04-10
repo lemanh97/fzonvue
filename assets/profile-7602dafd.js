@@ -1,1 +1,0 @@
-import{_ as o,c as r,b as t,F as n,a as c,o as s,r as a}from"./index-982a6951.js";const _={},l=c("h1",null," view profile",-1);function i(f,p){const e=a("router-view");return s(),r(n,null,[l,t(e)],64)}const u=o(_,[["render",i]]);export{u as default};
