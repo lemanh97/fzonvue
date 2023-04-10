@@ -1,0 +1,1 @@
+import{_ as o,c as r,d as t,b as a,F as c,o as n,r as s}from"./index-982a6951.js";const _={};function d(l,m){const e=s("router-view");return n(),r(c,null,[t(" DASHBOARD LE MANH "),a(e)],64)}const p=o(_,[["render",d]]);export{p as default};
